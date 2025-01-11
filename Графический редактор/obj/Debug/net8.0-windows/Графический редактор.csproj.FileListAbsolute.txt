@@ -1,0 +1,17 @@
+C:\Users\Artur\source\repos\Графический редактор\Графический редактор\bin\Debug\net8.0-windows\Графический редактор.exe
+C:\Users\Artur\source\repos\Графический редактор\Графический редактор\bin\Debug\net8.0-windows\Графический редактор.deps.json
+C:\Users\Artur\source\repos\Графический редактор\Графический редактор\bin\Debug\net8.0-windows\Графический редактор.runtimeconfig.json
+C:\Users\Artur\source\repos\Графический редактор\Графический редактор\bin\Debug\net8.0-windows\Графический редактор.dll
+C:\Users\Artur\source\repos\Графический редактор\Графический редактор\bin\Debug\net8.0-windows\Графический редактор.pdb
+C:\Users\Artur\source\repos\Графический редактор\Графический редактор\obj\Debug\net8.0-windows\Графический_редактор.Form1.resources
+C:\Users\Artur\source\repos\Графический редактор\Графический редактор\obj\Debug\net8.0-windows\Графический редактор.csproj.GenerateResource.cache
+C:\Users\Artur\source\repos\Графический редактор\Графический редактор\obj\Debug\net8.0-windows\Графический редактор.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Artur\source\repos\Графический редактор\Графический редактор\obj\Debug\net8.0-windows\Графический редактор.AssemblyInfoInputs.cache
+C:\Users\Artur\source\repos\Графический редактор\Графический редактор\obj\Debug\net8.0-windows\Графический редактор.AssemblyInfo.cs
+C:\Users\Artur\source\repos\Графический редактор\Графический редактор\obj\Debug\net8.0-windows\Графический редактор.csproj.CoreCompileInputs.cache
+C:\Users\Artur\source\repos\Графический редактор\Графический редактор\obj\Debug\net8.0-windows\Графический редактор.dll
+C:\Users\Artur\source\repos\Графический редактор\Графический редактор\obj\Debug\net8.0-windows\refint\Графический редактор.dll
+C:\Users\Artur\source\repos\Графический редактор\Графический редактор\obj\Debug\net8.0-windows\Графический редактор.pdb
+C:\Users\Artur\source\repos\Графический редактор\Графический редактор\obj\Debug\net8.0-windows\Графический редактор.genruntimeconfig.cache
+C:\Users\Artur\source\repos\Графический редактор\Графический редактор\obj\Debug\net8.0-windows\ref\Графический редактор.dll
+C:\Users\Artur\source\repos\Графический редактор\Графический редактор\obj\Debug\net8.0-windows\Графический_редактор.Properties.Resources.resources
